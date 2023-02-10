@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhm2195&show_icons=true&theme=radical)
+
 <!--
 **Hy-MDL/Hy-MDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hy-MDL&langs_count=8)](https://github.com/Hy-MDL/github-readme-stats)
 -->
